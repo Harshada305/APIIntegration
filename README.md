@@ -1,5 +1,6 @@
 Stock Market API Integration in Node.js
-TechStack:Node.js,Express,RapidAPI.com(Latest Stock Price) 
+TechStack:Node.js,Express,RapidAPI.com(Latest Stock Price),HTML
+In Short:This Site will give you a latest Stock Price or current time what will be the price of Stock,According to that you can buy or sell the Stock.It will fetch the Data related to Any Stock.
 
 A detailed explanation of what we have written in the above code
 
